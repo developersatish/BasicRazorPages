@@ -1,0 +1,13 @@
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\BasicRazorPages.deps.json
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\BasicRazorPages.runtimeconfig.json
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\BasicRazorPages.runtimeconfig.dev.json
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\BasicRazorPages.dll
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\BasicRazorPages.pdb
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.csproj.AssemblyReference.cache
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.AssemblyInfoInputs.cache
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.AssemblyInfo.cs
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.csproj.CoreCompileInputs.cache
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.dll
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.pdb
+D:\POC\Github\BasicRazorPages\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\BasicRazorPages.genruntimeconfig.cache

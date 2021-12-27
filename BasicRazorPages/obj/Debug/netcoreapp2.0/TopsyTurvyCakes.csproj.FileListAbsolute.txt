@@ -1,0 +1,13 @@
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.deps.json
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.runtimeconfig.json
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.runtimeconfig.dev.json
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.dll
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.pdb
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.csproj.AssemblyReference.cache
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.AssemblyInfoInputs.cache
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.AssemblyInfo.cs
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.csproj.CoreCompileInputs.cache
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.dll
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.pdb
+D:\POC\Ex_Files_ASPNET_Razor_Pages\Ex_Files_ASPNET_Razor_Pages\ExerciseFiles\Ch06\06_04_End\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.genruntimeconfig.cache
